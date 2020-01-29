@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-16.0.4'
+  vmImage: 'ubuntu-latest'
   demands:
   - npm
 
